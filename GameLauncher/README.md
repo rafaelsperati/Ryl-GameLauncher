@@ -24,4 +24,3 @@ local_list=client/patchlist.dat
 patchcount=1
 patch1=Data.zip
 ```
->>>>>>> Initial commit
